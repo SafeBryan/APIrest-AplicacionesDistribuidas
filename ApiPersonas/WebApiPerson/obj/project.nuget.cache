@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B7YzIfdzlsg=",
+  "dgSpecHash": "GMtwZVDX80I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bryan\\source\\repos\\APIrest-AplicacionesDistribuidas\\WebApiPerson\\WebApiPerson.csproj",
+  "projectFilePath": "C:\\Users\\Bryan\\source\\repos\\APIrest-AplicacionesDistribuidas\\ApiPersonas\\WebApiPerson\\WebApiPerson.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bryan\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Bryan\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RoZhawf4EHYKpk1BP9e2nrtQC0pxcyXYtLuhy7GkXEU=",
+  "Hash": "le8XQ9dpIymGeIkF3xaxpXYB5cf7v4zZlcQKJPA4zn0=",
   "Source": "WebApiPerson",
   "BasePath": "_content/WebApiPerson",
   "Mode": "Default",
@@ -47,10 +47,10 @@
       "OriginalItemSpec": "C:\\Users\\Bryan\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\Bryan\\source\\repos\\APIrest-AplicacionesDistribuidas\\WebApiPerson\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApiPerson.styles.css",
+      "Identity": "C:\\Users\\Bryan\\source\\repos\\APIrest-AplicacionesDistribuidas\\ApiPersonas\\WebApiPerson\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApiPerson.styles.css",
       "SourceId": "WebApiPerson",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Bryan\\source\\repos\\APIrest-AplicacionesDistribuidas\\WebApiPerson\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Bryan\\source\\repos\\APIrest-AplicacionesDistribuidas\\ApiPersonas\\WebApiPerson\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WebApiPerson",
       "RelativePath": "WebApiPerson.styles.css",
       "AssetKind": "All",
@@ -63,7 +63,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Bryan\\source\\repos\\APIrest-AplicacionesDistribuidas\\WebApiPerson\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApiPerson.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Bryan\\source\\repos\\APIrest-AplicacionesDistribuidas\\ApiPersonas\\WebApiPerson\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApiPerson.styles.css"
     }
   ]
 }

@@ -8203,11 +8203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bryan\\source\\repos\\APIrest-AplicacionesDistribuidas\\WebApiPerson\\WebApiPerson.csproj",
+      "projectUniqueName": "C:\\Users\\Bryan\\source\\repos\\APIrest-AplicacionesDistribuidas\\ApiPersonas\\WebApiPerson\\WebApiPerson.csproj",
       "projectName": "WebApiPerson",
-      "projectPath": "C:\\Users\\Bryan\\source\\repos\\APIrest-AplicacionesDistribuidas\\WebApiPerson\\WebApiPerson.csproj",
+      "projectPath": "C:\\Users\\Bryan\\source\\repos\\APIrest-AplicacionesDistribuidas\\ApiPersonas\\WebApiPerson\\WebApiPerson.csproj",
       "packagesPath": "C:\\Users\\Bryan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bryan\\source\\repos\\APIrest-AplicacionesDistribuidas\\WebApiPerson\\obj\\",
+      "outputPath": "C:\\Users\\Bryan\\source\\repos\\APIrest-AplicacionesDistribuidas\\ApiPersonas\\WebApiPerson\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
